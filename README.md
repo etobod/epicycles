@@ -4,6 +4,8 @@
 harmonics with the Fast Fourier Transform and rebuilds it as two chains of rotating
 circles, live, in your browser.
 
+**[Try it live →](https://etobod.github.io/epicycles/)**
+
 One HTML file. Pure JavaScript and canvas. Zero dependencies, no build, no server.
 
 ## Quick start
